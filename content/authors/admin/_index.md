@@ -30,12 +30,32 @@ social:
     link: https://www.imdb.com/name/nm8412574/
     icon_pack: fab
     icon: imdb
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/eduarddeboer/
+  - display:
+      header: false
+    link: https://nl.pinterest.com/eduarddeboer/
+    icon_pack: fab
+    icon: pinterest
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/TweetEduard
+  - display:
+      header: false
+    link: https://www.youtube.com/user/elrdeboer
+    icon_pack: fab
+    icon: youtube
+  - display:
+      header: false
+    link: https://www.yelp.com/user_details?userid=1k3R7zo1ZRP_D-EZAIEDYQ
+    icon_pack: fab
+    icon: yelp
+  - display:
+      header: false
+    link: https://about.me/eduarddeboer
+    icon_pack: fas
+    icon: about
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
