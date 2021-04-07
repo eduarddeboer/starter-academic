@@ -5,7 +5,7 @@
 
 title: Eduard de Boer # Website name
 baseurl: 'https://eduarddeboer.netlify.app/' # Website URL
-copyright: '2021' # Footer text, e.g. '© {year} Me'
+copyright: '{year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
