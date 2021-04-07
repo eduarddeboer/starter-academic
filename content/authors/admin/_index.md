@@ -56,6 +56,11 @@ social:
     link: https://about.me/eduarddeboer
     icon_pack: fas
     icon: about
+  - display:
+      header: false
+    link: https://500px.com/p/eduarddeboer
+    icon_pack: fab
+    icon: 500px
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
