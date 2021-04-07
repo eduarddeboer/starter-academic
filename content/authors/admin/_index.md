@@ -5,9 +5,11 @@ avatar_filename: https://s.gravatar.com/avatar/a218861c60b4a06728ed76086a0bf335?
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Internet Marketing
+  - Reputation Management
+  - 360º Photography
+  - Virtual Reality
+  - Travel
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,6 +48,6 @@ Eduard de Boer is a worldwide operating [Google Street View Trusted Photographe
 
 He has shot hundreds of local businesses in the Netherlands. In 2016 he expanded his work for Google Street View to The Gambia, the smallest country in Africa.
 
-Check out his work for Google Street View in The Gambia.
+Check out his work for [Google Street View in The Gambia](https://www.insideview.biz/portfolio/gambia/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
