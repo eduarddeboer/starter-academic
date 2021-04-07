@@ -55,8 +55,8 @@ social:
       header: false
     link: https://about.me/eduarddeboer
     icon_pack: far
-    icon: about
-    label: address-card
+    icon: address-card
+    label: ""
   - display:
       header: false
     link: https://500px.com/p/eduarddeboer
