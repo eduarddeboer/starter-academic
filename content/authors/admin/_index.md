@@ -1,7 +1,7 @@
 ---
 title: Eduard de Boer
 role: Google Street View Trusted Photographer & Google My Business Provider
-avatar_filename: https://s.gravatar.com/avatar/a218861c60b4a06728ed76086a0bf335?s=80
+avatar_filename: eduard-de-boer-square-600x600.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -14,18 +14,28 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/eduarddeboer/
+  - display:
+      header: false
+    link: https://instagram.com/EduarddeBoer
+    icon_pack: fab
+    icon: instagram
+  - icon: tripadvisoe
+    icon_pack: fab
+    link: https://www.tripadvisor.nl/Profile/EduarddeBoer
+  - display:
+      header: false
+    link: https://www.imdb.com/name/nm8412574/
+    icon_pack: fab
+    icon: imdb
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
