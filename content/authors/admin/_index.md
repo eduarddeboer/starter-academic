@@ -38,7 +38,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: ELR.de.Boer@gmail.com
 superuser: true
 highlight_name: false
 ---
