@@ -1,7 +1,7 @@
 ---
 title: Eduard de Boer
 role: Google Street View Trusted Photographer & Google My Business Provider
-avatar_filename: eduard-de-boer-square-600x600.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
